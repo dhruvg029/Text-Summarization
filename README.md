@@ -11,7 +11,7 @@ Text summarization refers to the technique of condensing a lengthy text document
 </p>
 
 ## Dataset
-The dataset used here is a [NEWS SUMMARY](https://www.kaggle.com/datasets/sunnysai12345/news-summary) dataset from Kaggle. It consists of 4515 examples and contains Author_name, Headlines, Url of Article, Short text, Complete Article. Time period ranges from febrauary to august 2017.
+The dataset used here is a [NEWS SUMMARY](https://www.kaggle.com/datasets/sunnysai12345/news-summary) dataset from Kaggle. It consists of 4515 examples and contains Author_name, Headlines, Url of Article, Short text, Complete Article.
 
 ## Additional Info
 Just run the `textsummarization.ipynb` notebook on Jupyter Notebook or Google Colab. It will run successfully with minimal changes.
